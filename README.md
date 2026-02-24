@@ -42,7 +42,7 @@ Add Hugging Face API Key in .env
 
 python app.py
 
-### Step 3:Open browser
+### Step 4:Open browser
 
 http://127.0.0.1:5000
 
@@ -52,6 +52,8 @@ How It Works
 • Flask sends request to Stable Diffusion model via Hugging Face API
 • Model generates image
 • Image displayed on website
+
+
 
 ## Project Structure
 
