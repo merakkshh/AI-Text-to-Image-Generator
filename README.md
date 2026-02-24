@@ -4,27 +4,6 @@ This project is a web-based AI application that generates images from text promp
 
 ---
 
-## Project Structure
-
-AI-Text-to-Image-Generator/
-│
-├── app.py # Main Flask backend application
-├── requirements.txt # Project dependencies
-├── .env # API key (not shared publicly)
-├── .gitignore # Files ignored by Git
-├── README.md # Project documentation
-│
-├── templates/
-│ └── index.html # Frontend HTML file
-│
-└── static/
-├── css/
-│ └── style.css # Styling file
-│
-└── js/
-└── script.js # Frontend JavaScript logic
-
----
 
 ## Features
 
@@ -73,3 +52,23 @@ How It Works
 • Flask sends request to Stable Diffusion model via Hugging Face API
 • Model generates image
 • Image displayed on website
+
+## Project Structure
+
+AI-Text-to-Image-Generator/
+│
+├── app.py # Main Flask backend application
+├── requirements.txt # Project dependencies
+├── .env # API key (not shared publicly)
+├── .gitignore # Files ignored by Git
+├── README.md # Project documentation
+│
+├── templates/
+│ └── index.html # Frontend HTML file
+│
+└── static/
+├── css/
+│ └── style.css # Styling file
+│
+└── js/
+└── script.js # Frontend JavaScript logic
