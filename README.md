@@ -4,6 +4,9 @@ This project is a web-based AI application that generates images from text promp
 
 ---
 
+## 🌐 Live Demo
+
+🔗 https://ai-text-to-image-generator-ew0m.onrender.com
 
 ## Features
 
